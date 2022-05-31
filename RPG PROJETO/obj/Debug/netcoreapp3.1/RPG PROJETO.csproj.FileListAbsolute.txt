@@ -1,0 +1,13 @@
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.csprojAssemblyReference.cache
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.AssemblyInfo.cs
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\RPG PROJETO\bin\Debug\netcoreapp3.1\RPG PROJETO.exe
+C:\Users\info\Desktop\RPG PROJETO\bin\Debug\netcoreapp3.1\RPG PROJETO.deps.json
+C:\Users\info\Desktop\RPG PROJETO\bin\Debug\netcoreapp3.1\RPG PROJETO.runtimeconfig.json
+C:\Users\info\Desktop\RPG PROJETO\bin\Debug\netcoreapp3.1\RPG PROJETO.runtimeconfig.dev.json
+C:\Users\info\Desktop\RPG PROJETO\bin\Debug\netcoreapp3.1\RPG PROJETO.dll
+C:\Users\info\Desktop\RPG PROJETO\bin\Debug\netcoreapp3.1\RPG PROJETO.pdb
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.dll
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.pdb
+C:\Users\info\Desktop\RPG PROJETO\obj\Debug\netcoreapp3.1\RPG PROJETO.genruntimeconfig.cache
